@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\ksomm\\ASP DOTNET Exam Project\\MvcMovie\\MvcMovie.csproj": {}
+    "C:\\Users\\ksomm\\ASP.NET Exam Project\\ASP-DOTNET-Exam-Project\\MvcMovie\\MvcMovie.csproj": {}
   },
   "projects": {
-    "C:\\Users\\ksomm\\ASP DOTNET Exam Project\\MvcMovie\\MvcMovie.csproj": {
+    "C:\\Users\\ksomm\\ASP.NET Exam Project\\ASP-DOTNET-Exam-Project\\MvcMovie\\MvcMovie.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\ksomm\\ASP DOTNET Exam Project\\MvcMovie\\MvcMovie.csproj",
+        "projectUniqueName": "C:\\Users\\ksomm\\ASP.NET Exam Project\\ASP-DOTNET-Exam-Project\\MvcMovie\\MvcMovie.csproj",
         "projectName": "MvcMovie",
-        "projectPath": "C:\\Users\\ksomm\\ASP DOTNET Exam Project\\MvcMovie\\MvcMovie.csproj",
+        "projectPath": "C:\\Users\\ksomm\\ASP.NET Exam Project\\ASP-DOTNET-Exam-Project\\MvcMovie\\MvcMovie.csproj",
         "packagesPath": "C:\\Users\\ksomm\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\ksomm\\ASP DOTNET Exam Project\\MvcMovie\\obj\\",
+        "outputPath": "C:\\Users\\ksomm\\ASP.NET Exam Project\\ASP-DOTNET-Exam-Project\\MvcMovie\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\ksomm\\AppData\\Roaming\\NuGet\\NuGet.Config"

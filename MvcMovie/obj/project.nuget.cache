@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "wrJaMQg2ry9U3lI74PjSqK5PLXFD/NHgjsUJSvLyaLVurmzIwUib/+TJndTtLJVj866zntYqymx1YxYwT2Gx2Q==",
+  "dgSpecHash": "WA2bTmShiOKa9NqbaGO9a/6ZbnZdExJ5+IUXfE/WfEMpUFVIcr4ZGlYRfk3alAEPphdnEoMOe+Z7L+dK2esO4A==",
   "success": true,
-  "projectFilePath": "C:\\Users\\ksomm\\ASP DOTNET Exam Project\\MvcMovie\\MvcMovie.csproj",
+  "projectFilePath": "C:\\Users\\ksomm\\ASP.NET Exam Project\\ASP-DOTNET-Exam-Project\\MvcMovie\\MvcMovie.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\ksomm\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\ksomm\\.nuget\\packages\\messagepack\\2.1.152\\messagepack.2.1.152.nupkg.sha512",
